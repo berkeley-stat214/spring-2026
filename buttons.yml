@@ -4,9 +4,9 @@
 # - button: DataHub
 #   link: https://berkeley.edu
 #   color: green
-- button: Gradescope
-  link: https://www.gradescope.com/
-  color: red
+# - button: Gradescope
+#   link: https://www.gradescope.com/
+#   color: red
 - button: bCourses
   link: https://bcourses.berkeley.edu/
   color: blue
