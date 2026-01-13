@@ -1,0 +1,52 @@
+[
+  {
+    "objectID": "license.html",
+    "href": "license.html",
+    "title": "License",
+    "section": "",
+    "text": "This work is licensed under a Creative Commons Attribution 4.0 International License.",
+    "crumbs": [
+      "License"
+    ]
+  },
+  {
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "Class Times - Lecture: T/Th 9:30am-11:00 am (Social Science Building 20) - Discussion: Friday 1-2 pm and 2-3 pm (Evans 334)\nInstructor - Bin Yu (binyu@berkeley.edu)\nGSIs - Sequoia Rose Andrade (srandrade@berkeley.edu) - Zach Rewolinski (zachrewolinski@berkeley.edu) - Sean Richardson (seanrichardson@berkeley.edu) - Anqi Wang (aqwang@berkeley.edu) GSIs will be in charge of the discussion sessions, Ed Discussions on bCourses, and the labs/homework (reading summaries of and selected problems from the VDS book by Yu and Barter).\nTextbooks - Veridical Data Science: The Practice of Responsible Data Analysis and Decision-Making, Bin Yu and Rebecca Barter (MIT Press, in-press) (free online version at vdsbook.com) (required) - Statistical Models, David Freedman (Cambridge Press, 2009, 2nd Ed.) (required). (open-source pdf) - The Elements of Statistical Learning, Trevor Hastie, Rob Tibshirani, Jerome Friedman (Springer, 2016, 2nd Ed.) (recommended). (open-source pdf)\nPrerequisites - Stat 134 (or equivalent) - Stat 135 (or equivalent) - Stat 243 (or equivalent)\nBrief Description: This is an MA class in statistics. Students will be engaged in open-ended data projects for decision making to solve domain problems. It mirrors the entire data science life cycle in practice, including problem formulation, data cleaning, exploratory data analysis, statistical and machine learning modeling and computational techniques, and interpretation of results in context. It is guided by the Predictability-Computability-Stability (PCS) framework for veridical data science and emphasizes critical thinking and documenting human judgment calls and code. It coaches not only the technical but also communication and teamwork skills in order to obtain responsible and reliable data-driven conclusions for solving complex real world problems.\n\n\n\n\n45% lab assignments\n\nLab 1: Single-person project (20%)\nLab 2: Team project (25%)\n\n10% reading assignments and selected problems from VDS book\n2.5% class participation (lectures and discussions)\n2.5% peer lab review performance\n5% paper presentations\n35% final project (team project)\n\nAttendance policy: email notices to GSIs are required for missing lectures or discussion sessions. Attendances will be taken at lectures and discussion sessions. No exams.\nAssignment descriptions: reading and selected problems from VDS book, and all three projects or data labs are based on using data sets with background domain information given (including possible guest lectures from domain experts) to arrive at data-driven conclusions or decisions. The projects or labs mimic data science practice and guide students through the whole data science life cycle (DSLC).\nAssignment policies: no late lab reports in general, except under special circumstances.\n\n\n\nClass discussion on academic integrity and professional conduct in the beginning of the semester. Every lab report will be turned in with statements from students on their contributions and about whether and how they used AI tools such as chatGPT.\nComments, Suggestions, Gripes: Before or after the lectures, email, or talk to the instructor and the GSIs.\n\n\n\nQuestions and discussion about course material, assignments, and labs can be posted on the Ed Discussion page (accessed on bCourses). The GSIs will regularly monitor this to ensure all questions are answered in a timely manner, but students are encouraged to help their classmates as well. Please think carefully before asking questions specifically about the projects. For example, questions concerning how to do something specific in Python are fine, but questions asking what other people did for their analysis are not. Questions asking about clarifications are fine.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#data-analysis-and-machine-learning-for-real-world-decision-making",
+    "href": "syllabus.html#data-analysis-and-machine-learning-for-real-world-decision-making",
+    "title": "Syllabus",
+    "section": "",
+    "text": "Class Times - Lecture: T/Th 9:30am-11:00 am (Social Science Building 20) - Discussion: Friday 1-2 pm and 2-3 pm (Evans 334)\nInstructor - Bin Yu (binyu@berkeley.edu)\nGSIs - Sequoia Rose Andrade (srandrade@berkeley.edu) - Zach Rewolinski (zachrewolinski@berkeley.edu) - Sean Richardson (seanrichardson@berkeley.edu) - Anqi Wang (aqwang@berkeley.edu) GSIs will be in charge of the discussion sessions, Ed Discussions on bCourses, and the labs/homework (reading summaries of and selected problems from the VDS book by Yu and Barter).\nTextbooks - Veridical Data Science: The Practice of Responsible Data Analysis and Decision-Making, Bin Yu and Rebecca Barter (MIT Press, in-press) (free online version at vdsbook.com) (required) - Statistical Models, David Freedman (Cambridge Press, 2009, 2nd Ed.) (required). (open-source pdf) - The Elements of Statistical Learning, Trevor Hastie, Rob Tibshirani, Jerome Friedman (Springer, 2016, 2nd Ed.) (recommended). (open-source pdf)\nPrerequisites - Stat 134 (or equivalent) - Stat 135 (or equivalent) - Stat 243 (or equivalent)\nBrief Description: This is an MA class in statistics. Students will be engaged in open-ended data projects for decision making to solve domain problems. It mirrors the entire data science life cycle in practice, including problem formulation, data cleaning, exploratory data analysis, statistical and machine learning modeling and computational techniques, and interpretation of results in context. It is guided by the Predictability-Computability-Stability (PCS) framework for veridical data science and emphasizes critical thinking and documenting human judgment calls and code. It coaches not only the technical but also communication and teamwork skills in order to obtain responsible and reliable data-driven conclusions for solving complex real world problems.\n\n\n\n\n45% lab assignments\n\nLab 1: Single-person project (20%)\nLab 2: Team project (25%)\n\n10% reading assignments and selected problems from VDS book\n2.5% class participation (lectures and discussions)\n2.5% peer lab review performance\n5% paper presentations\n35% final project (team project)\n\nAttendance policy: email notices to GSIs are required for missing lectures or discussion sessions. Attendances will be taken at lectures and discussion sessions. No exams.\nAssignment descriptions: reading and selected problems from VDS book, and all three projects or data labs are based on using data sets with background domain information given (including possible guest lectures from domain experts) to arrive at data-driven conclusions or decisions. The projects or labs mimic data science practice and guide students through the whole data science life cycle (DSLC).\nAssignment policies: no late lab reports in general, except under special circumstances.\n\n\n\nClass discussion on academic integrity and professional conduct in the beginning of the semester. Every lab report will be turned in with statements from students on their contributions and about whether and how they used AI tools such as chatGPT.\nComments, Suggestions, Gripes: Before or after the lectures, email, or talk to the instructor and the GSIs.\n\n\n\nQuestions and discussion about course material, assignments, and labs can be posted on the Ed Discussion page (accessed on bCourses). The GSIs will regularly monitor this to ensure all questions are answered in a timely manner, but students are encouraged to help their classmates as well. Please think carefully before asking questions specifically about the projects. For example, questions concerning how to do something specific in Python are fine, but questions asking what other people did for their analysis are not. Questions asking about clarifications are fine.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Statistics 214: Data Analysis and Machine Learning for Real-World Decision Making",
+    "section": "",
+    "text": "Ed\n\n  Gradescope\n\n  bCourses\n\nNo matching items\n\nSTAT 214 is an MA class in statistics. Students will be engaged in open-ended data projects for decision making to solve domain problems. It mirrors the entire data science life cycle in practice, including problem formulation, data cleaning, exploratory data analysis, statistical and machine learning modeling and computational techniques, and interpretation of results in context. It is guided by the Predictability-Computability-Stability (PCS) framework for veridical data science and emphasizes critical thinking and documenting human judgment calls and code. It coaches not only the technical but also communication and teamwork skills in order to obtain responsible and reliable data-driven conclusions for solving complex real world problems.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "staff.html",
+    "href": "staff.html",
+    "title": "Staff",
+    "section": "",
+    "text": "Office hours are subject to change. All GSI hours start on Berkeley time.\n\n\n\nInstructor: Bin Yu binyu@berkeley.edu Office hours:  - TBD\n\n\nGSI: Sequoia Rose Andrade srandrade@berkeley.edu Office hours: - TBD\n\n\nGSI: Sean Richardson seanrichardson@berkeley.edu Office hours: - TBD\n\n\nGSI: Zach Rewolinski zachrewolinski@berkeley.edu Office hours: - TBD\n\n\nGSI: Anqi Wang aqwang@berkeley.edu Office hours: - TBD",
+    "crumbs": [
+      "Staff"
+    ]
+  }
+]
