@@ -1,0 +1,13 @@
+---
+title: "{{< var department >}} {{< var number >}}: {{< var name >}}"
+subtitle: "UC Berkeley, {{< var semester >}}"
+listing:
+  - id: buttons
+    template: assets/buttons.ejs
+    contents: buttons.yml
+---
+
+::: {#buttons}
+:::
+
+STAT 214 is an MA class in statistics. Students will be engaged in open-ended data projects for decision making to solve domain problems. It mirrors the entire data science life cycle in practice, including problem formulation, data cleaning, exploratory data analysis, statistical and machine learning modeling and computational techniques, and interpretation of results in context. It is guided by the Predictability-Computability-Stability (PCS) framework for veridical data science and emphasizes critical thinking and documenting human judgment calls and code. It coaches not only the technical but also communication and teamwork skills in order to obtain responsible and reliable data-driven conclusions for solving complex real world problems.

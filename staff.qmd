@@ -1,0 +1,48 @@
+---
+title: "Staff"
+---
+
+
+Office hours are subject to change. All GSI hours start on Berkeley time.
+
+-----
+
+::: {.grid}
+
+::: {.g-col-4}
+**Instructor:** <a href="https://binyu.stat.berkeley.edu/" target='_blank'>Bin Yu</a><br>
+`binyu@berkeley.edu`<br>
+Office hours: <br>
+- TBD
+:::
+
+::: {.g-col-4}
+**GSI**: <a target="_blank">Sequoia Rose Andrade</a><br>
+`srandrade@berkeley.edu`<br>
+Office hours:<br>
+- TBD
+:::
+
+::: {.g-col-4}
+**GSI**: <a target="_blank">Sean Richardson</a><br>
+`seanrichardson@berkeley.edu`<br>
+Office hours:<br>
+- TBD
+:::
+
+::: {.g-col-4}
+**GSI**: <a href="https://www.zachrewolinski.com/" target="_blank">Zach Rewolinski</a><br>
+`zachrewolinski@berkeley.edu`<br>
+Office hours:<br>
+- TBD
+:::
+
+::: {.g-col-4}
+**GSI**: <a target="_blank">Anqi Wang</a><br>
+`aqwang@berkeley.edu`<br>
+Office hours:<br>
+- TBD
+:::
+
+:::
+

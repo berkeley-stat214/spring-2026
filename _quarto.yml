@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  google-analytics: "G-7YQ2SB485K"
+  sidebar:
+    style: docked
+    title: "{{< var department-abbrev >}} {{< var number >}}"
+    logo: assets/stat_bear.png
+    logo-alt: "UC Berkeley Statistics logo"
+    contents:
+      - href: index.qmd
+        text: Home 
+      - href: staff.qmd
+        text: Staff
+      - href: syllabus.qmd
+        text: Syllabus
+      - href: license.qmd
+        text: License
+          
+
+format:
+  html:
+    theme: cosmo
+    css: assets/styles.css
+    toc: true
+    include-in-header:
+      file: siteimprove.html

@@ -1,0 +1,61 @@
+---
+title: "Syllabus"
+---
+
+## Data Analysis and Machine Learning for Real-World Decision Making
+
+### Logistics
+
+**Class Times**<br>
+- Lecture: T/Th 9:30am-11:00 am (Social Science Building 20)<br>
+- Discussion: Friday 1-2 pm and 2-3 pm (Evans 334)<br>
+
+**Instructor**<br>
+- Bin Yu (binyu@berkeley.edu)
+
+**GSIs**<br>
+- Sequoia Rose Andrade (srandrade@berkeley.edu)<br>
+- Zach Rewolinski (zachrewolinski@berkeley.edu)<br>
+- Sean Richardson (seanrichardson@berkeley.edu)<br>
+- Anqi Wang (aqwang@berkeley.edu)<br>
+GSIs will be in charge of the discussion sessions, Ed Discussions on bCourses, and the labs/homework (reading summaries of and selected problems from the VDS book by Yu and Barter).<br>
+
+**Textbooks**<br>
+- *Veridical Data Science: The Practice of Responsible Data Analysis and Decision-Making*, Bin Yu and Rebecca Barter (MIT Press, in-press) (free online version at vdsbook.com) (required)<br>
+- *Statistical Models*, David Freedman (Cambridge Press, 2009, 2nd Ed.) (required). (open-source pdf)<br>
+- *The Elements of Statistical Learning*, Trevor Hastie, Rob Tibshirani, Jerome Friedman (Springer, 2016, 2nd Ed.) (recommended). (open-source pdf)<br>
+
+**Prerequisites**<br>
+- Stat 134 (or equivalent)<br>
+- Stat 135 (or equivalent)<br>
+- Stat 243 (or equivalent)<br>
+
+**Brief Description**:<br>
+This is an MA class in statistics. Students will be engaged in open-ended data projects for decision making to solve domain problems. It mirrors the entire data science life cycle in practice, including problem formulation, data cleaning, exploratory data analysis, statistical and machine learning modeling and computational techniques, and interpretation of results in context. It is guided by the Predictability-Computability-Stability (PCS) framework for veridical data science and emphasizes critical thinking and documenting human judgment calls and code. It coaches not only the technical but also communication and teamwork skills in order to obtain responsible and reliable data-driven conclusions for solving complex real world problems.
+
+### Grading
+
+- 45% lab assignments<br>
+  - Lab 1: Single-person project (20%)<br>
+  - Lab 2: Team project (25%)<br>
+- 10% reading assignments and selected problems from VDS book<br>
+- 2.5% class participation (lectures and discussions)<br>
+- 2.5% peer lab review performance<br>
+- 5% paper presentations<br>
+- 35% final project (team project)<br>
+
+Attendance policy: email notices to GSIs are required for missing lectures or discussion sessions. Attendances will be taken at lectures and discussion sessions. No exams.<br>
+
+Assignment descriptions: reading and selected problems from VDS book, and all three projects or data labs are based on using data sets with background domain information given (including possible guest lectures from domain experts) to arrive at data-driven conclusions or decisions. The projects or labs mimic data science practice and guide students through the whole data science life cycle (DSLC).<br>
+
+Assignment policies: no late lab reports in general, except under special circumstances.<br>
+
+### Student Conduct (Academic Integrity)
+
+Class discussion on academic integrity and professional conduct in the beginning of the semester. Every lab report will be turned in with statements from students on their contributions and about whether and how they used AI tools such as chatGPT.<br>
+
+Comments, Suggestions, Gripes: Before or after the lectures, email, or talk to the instructor and the GSIs.<br>
+
+### Ed Discussion
+
+Questions and discussion about course material, assignments, and labs can be posted on the Ed Discussion page (accessed on bCourses). The GSIs will regularly monitor this to ensure all questions are answered in a timely manner, but students are encouraged to help their classmates as well. Please think carefully before asking questions specifically about the projects. For example, questions concerning how to do something specific in Python are fine, but questions asking what other people did for their analysis are not. Questions asking about clarifications are fine.
