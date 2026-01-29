@@ -13,35 +13,38 @@ Office hours are subject to change. All GSI hours start on Berkeley time.
 **Instructor:** <a href="https://binyu.stat.berkeley.edu/" target='_blank'>Bin Yu</a><br>
 `binyu@berkeley.edu`<br>
 Office hours: <br>
-- TBD
+- Tuesdays 12:30pm-1:30pm, 409 Evans<br>
+- Thursdays 10am-11am, 409 Evans
 :::
 
 ::: {.g-col-4}
 **GSI**: <a target="_blank">Sequoia Rose Andrade</a><br>
 `srandrade@berkeley.edu`<br>
 Office hours:<br>
-- TBD
+- Wednesdays 2:30pm-3:30pm, 444 Evans
 :::
 
 ::: {.g-col-4}
 **GSI**: <a target="_blank">Sean Richardson</a><br>
 `seanrichardson@berkeley.edu`<br>
 Office hours:<br>
-- TBD
+- Mondays 11:30am-12:30pm, 444 Evans
 :::
 
 ::: {.g-col-4}
 **GSI**: <a href="https://www.zachrewolinski.com/" target="_blank">Zach Rewolinski</a><br>
 `zachrewolinski@berkeley.edu`<br>
 Office hours:<br>
-- TBD
+- Mondays 1pm-2pm, Zoom<br>
+- Thursdays 3pm-4pm, 444 Evans<br>
+- Fridays 10am-11am, 444 Evans
 :::
 
 ::: {.g-col-4}
 **GSI**: <a target="_blank">Anqi Wang</a><br>
 `aqwang@berkeley.edu`<br>
 Office hours:<br>
-- TBD
+- Tuesdays 9am-10am, 444 Evans
 :::
 
 :::
